@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR6p0081/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0081/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 三時繫念佛事
+  identifiers:
+    krp: KR6p0081
+    cbeta: X74n1464
+    cbeta_old_id: X74n1464
+    authorityid: CA0002743
+    json_key: X1464
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1464.xml
+    old_id: X74n1464
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0081_000-X.yaml, hash: 'sha256:67dd34e2c2d1ea164d22056396132b9eb143186bb74755024d71601c1e61dab0'}
+  - {seq: 1, filename: KR6p0081_001-X.yaml, hash: 'sha256:d41b647217140cea6acc972c39957834af7df94e757cc6df301a8bb712c97858'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0081_000-X.markers.yaml, hash: 'sha256:8c815d1f6792814f69ff0727a8a985a0054674869f50b0c2916cadaa8bb2f282'}
+  - {seq: 1, role: markers, filename: assets/KR6p0081_001-X.markers.yaml, hash: 'sha256:1b3172d734b6f82dd68e7a7728f9a79d1381968cedfe200c6c3ce130b2f0df9b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6p0081_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 6627
+  label: 中峰國師三時繫念佛事
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0081_X_001-mulu-1
+    span:
+    - body
+    - 34
+    - 34
+  label: 維那舉讚
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0081_X_001-mulu-2
+    span:
+    - body
+    - 347
+    - 347
+  label: 第一時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0081_X_001-mulu-3
+    span:
+    - body
+    - 3857
+    - 3857
+  label: 第二時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0081_X_001-mulu-4
+    span:
+    - body
+    - 5134
+    - 5134
+  label: 第三時
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0081_X_001-mulu-5
+    span:
+    - body
+    - 6397
+    - 6397
+  label: 結文
+  type: mulu
+  level: 1
+hash: sha256:db5357f9c47c300e16d132bb561bc91b83980e128dccd60351b571ec1f550fc8
