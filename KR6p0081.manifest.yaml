@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6p0081/v1
 canonical_location: https://kanripo.org/bkk/KR6p0081/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 三時繫念佛事
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6p0081_000.yaml, hash: 'sha256:67dd34e2c2d1ea164d22056396132b9eb143186bb74755024d71601c1e61dab0'}
-  - {seq: 1, filename: KR6p0081_001.yaml, hash: 'sha256:d41b647217140cea6acc972c39957834af7df94e757cc6df301a8bb712c97858'}
+  - {seq: 1, filename: KR6p0081_001.yaml, hash: 'sha256:23639bd3a625cc522a4af9959958307c1e96daf2a0539a2b9c1f9d77d0d8f5fe'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6p0081_000.markers.yaml, hash: 'sha256:dd1486dbda3517f81cc387961bd8692cff1af673e00de2f2da8d56a2f42ded41'}
-  - {seq: 1, role: markers, filename: assets/KR6p0081_001.markers.yaml, hash: 'sha256:15cf03d0307cb1475e251b2bed6774bacbee1c1a5cff55441acc803989c99a76'}
+  - {seq: 1, role: markers, filename: assets/KR6p0081_001.markers.yaml, hash: 'sha256:ea96e1dce0881e91f1ebf47e7156f4a2029c64d948893471857b107edf1631a3'}
 table_of_contents:
 - ref:
     seq: 1
@@ -87,4 +87,7 @@ table_of_contents:
   label: 結文
   type: mulu
   level: 1
-hash: sha256:9403f31056adf5ba323f85798bff7a5a18db05ebe6ff8babb2fdbc22dcd14d2a
+hash: sha256:1dcf250737f79cc95cbef1f788c8ba4e3cb168dc42cf45aa26044e31eea9538e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
